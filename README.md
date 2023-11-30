@@ -1,3 +1,6 @@
+Hello
+My discord is MorneauDominique#0150
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
